@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Machine Learning with Ryan Lu
-tagline: Supporting tagline
+<!--tagline: Supporting tagline-->
 ---
 {% include JB/setup %}
 
