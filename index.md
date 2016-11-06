@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Learn Machine Learning with Ryan Lu
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
