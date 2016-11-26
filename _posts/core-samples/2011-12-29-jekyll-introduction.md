@@ -15,6 +15,16 @@ Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
 $$ E = mc^2 $$
 
+
+$$
+\begin{aligned}a&=b&c&=d\\e&=f\end{aligned}
+$$
+
+
+$$\begin{aligned}a &= 1 & b &= 2 \\
+         3a &= 3 & 17b &= 34\end{aligned}
+ $$
+
 Jekyll is a parsing engine bundled as a ruby gem used to build static websites from
 dynamic components such as templates, partials, liquid code, markdown, etc. Jekyll is known as "a simple, blog aware, static site generator".
 
