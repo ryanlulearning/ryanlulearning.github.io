@@ -89,7 +89,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : www-ryanlulearning-com
     livefyre :
       site_id : 123
     intensedebate :
